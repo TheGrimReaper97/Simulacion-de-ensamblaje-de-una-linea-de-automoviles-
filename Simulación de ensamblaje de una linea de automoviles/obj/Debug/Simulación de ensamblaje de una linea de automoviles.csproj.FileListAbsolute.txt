@@ -1,0 +1,10 @@
+D:\Github\Simulacion-de-ensamblaje-de-una-linea-de-automoviles-\Simulación de ensamblaje de una linea de automoviles\obj\Debug\Simulación de ensamblaje de una linea de automoviles.csprojAssemblyReference.cache
+D:\Github\Simulacion-de-ensamblaje-de-una-linea-de-automoviles-\Simulación de ensamblaje de una linea de automoviles\obj\Debug\Simulación_de_ensamblaje_de_una_linea_de_automoviles.Form1.resources
+D:\Github\Simulacion-de-ensamblaje-de-una-linea-de-automoviles-\Simulación de ensamblaje de una linea de automoviles\obj\Debug\Simulación_de_ensamblaje_de_una_linea_de_automoviles.Properties.Resources.resources
+D:\Github\Simulacion-de-ensamblaje-de-una-linea-de-automoviles-\Simulación de ensamblaje de una linea de automoviles\obj\Debug\Simulación de ensamblaje de una linea de automoviles.csproj.GenerateResource.cache
+D:\Github\Simulacion-de-ensamblaje-de-una-linea-de-automoviles-\Simulación de ensamblaje de una linea de automoviles\obj\Debug\Simulación de ensamblaje de una linea de automoviles.csproj.CoreCompileInputs.cache
+D:\Github\Simulacion-de-ensamblaje-de-una-linea-de-automoviles-\Simulación de ensamblaje de una linea de automoviles\bin\Debug\Simulación de ensamblaje de una linea de automoviles.exe.config
+D:\Github\Simulacion-de-ensamblaje-de-una-linea-de-automoviles-\Simulación de ensamblaje de una linea de automoviles\bin\Debug\Simulación de ensamblaje de una linea de automoviles.exe
+D:\Github\Simulacion-de-ensamblaje-de-una-linea-de-automoviles-\Simulación de ensamblaje de una linea de automoviles\bin\Debug\Simulación de ensamblaje de una linea de automoviles.pdb
+D:\Github\Simulacion-de-ensamblaje-de-una-linea-de-automoviles-\Simulación de ensamblaje de una linea de automoviles\obj\Debug\Simulación de ensamblaje de una linea de automoviles.exe
+D:\Github\Simulacion-de-ensamblaje-de-una-linea-de-automoviles-\Simulación de ensamblaje de una linea de automoviles\obj\Debug\Simulación de ensamblaje de una linea de automoviles.pdb
