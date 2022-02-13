@@ -27,5 +27,15 @@ namespace Simulación_de_ensamblaje_de_una_linea_de_automoviles
         {
             this.WindowState = FormWindowState.Minimized;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
